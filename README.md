@@ -15,4 +15,4 @@
 
 <h2>Screenshoot</h2>
 <p>Analytics Visitor</p>
-![shortlink web apps php](https://raw.githubusercontent.com/suryaloe/Shortlink-Apps/master/screenshoot/analytics.png)
+![alt tag](https://raw.githubusercontent.com/suryaloe/Shortlink-Apps/master/screenshoot/analytics.png)
