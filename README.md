@@ -13,7 +13,7 @@
 <li>Import Database in folder database</li>
 <li>Copy src to your web server</li>
 <li>Change config database in __vendor/application/config/database.php</li>
-<li>Change Root webserver to folder public</p>
+<li>Change Root webserver to folder public</li>
 <li>Visit your web</li>
 </ol>
 
