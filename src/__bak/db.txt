@@ -1,0 +1,41 @@
+DB NAME 	: linkrakyatku
+USER 		: suryaloe
+PASS 		: damnForyOu
+
+u : u5079407_link
+p : helPmeDude
+db : u5079407_linkrakyatku
+
+ALTER DATABASE linkrakyatku CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+USER
+--id
+--nama
+--email
+--username
+--password
+--reset_token
+--last_login
+--session_login
+
+ADMIN_USER
+--id
+--username
+--password
+--email
+
+
+LINK
+--id
+--user_id
+--count
+--detail_link_id
+
+
+DETAIL_LINK
+--id
+--ip_address
+--referer
+--browser
+--platform
+--countries
