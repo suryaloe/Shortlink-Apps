@@ -1,6 +1,9 @@
 <h1>Shortlink Apps</h1>
 <p>This apps for short link Url to simple, when link visit, system log ip, browser, country and referer visitor</p><br/>
-
+<h2>Library</h2>
+<ol>
+<li>Browser Detection By <a href="https://github.com/Wolfcast/BrowserDetection" target="_blank">Wolfcast</a></li>
+</ol>
 <h2>How to Install</h2>
 <ol>
 <li>Make Database in Mysql Server</li>
